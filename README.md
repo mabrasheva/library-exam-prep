@@ -1,0 +1,1 @@
+CI/CD exercise part of my DevOps course at Softuni.
